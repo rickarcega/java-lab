@@ -15,6 +15,8 @@
   * @desc This file has a logic with a function that will hold a syntax 
   *       to deliver a simple Math calculation using Fluent Interface (Chaining) perspective. 
   * 
+  *       To run this project just install Node.Js latest version, them run node.js {nameOfTheFile.js}
+  * 
   * @dateCreation 05/06/2019 
   * @author Ricardo C. Arcega - ricardoarcega[at]gmail.com
 */
